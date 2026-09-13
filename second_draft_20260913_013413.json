@@ -1,0 +1,445 @@
+{
+  "timestamp": "20260913_013413",
+  "cast_names": [
+    "Ralph",
+    "Charleen",
+    "Johnny",
+    "Canman",
+    "Gary",
+    "Jonathan",
+    "Jean Luc",
+    "Bastien",
+    "Yeahno",
+    "The Village Elder",
+    "The Amazon Queens",
+    "The Bad Bitch",
+    "Diana",
+    "The Shamaness",
+    "The Disheveled Scientist",
+    "Sarah",
+    "The Zombie Catwalk Model",
+    "The Monegasque Middlemen"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "The Betrayal",
+      "reasoning": "The 'I' in the source is the unnamed narrator. This chunk involves Ralph and Bastiern, focusing on the conflict over Gisele Bündchen's legacy. The setting is Ralph's luxurious office, where the tension between business interests and betrayal is palpable.",
+      "scene": "The scene takes place in Ralph's lavish office, filled with high-end designer clothing and accessories. A large, modern office window overlooks a cityscape at dusk. The air is thick with tension, as Ralph and Bastiern argue over the details of Gisele Bündchen's legacy. Ralph leans back in his chair, sipping his wine, while Bastiern stands with his arms crossed, his expression stern.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "It's a great story. Truly. But you're selling me on a legacy. On a 'cultural footprint.' I'm in the opening weekend business. I don't give a damn if anyone remembers.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "Bastien",
+          "line": "Twenty percent.",
+          "cast_type": "canonical",
+          "raw_name": "BASTIEN",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "Bastien",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Burning Hut",
+      "reasoning": "The source involves Charlene and YeahNo, with Charlene standing atop a burning hut, and YeahNo standing triumphantly over a lifeless body. The setting is a jungle, and the dramatic conflict revolves around the aftermath of violence and Charlene's rage. The source implies that Charlene has memory lapses due to her vegan Ayahuasca diet, which fits the context of the jungle setting.",
+      "scene": "The smoke from the burning hut rises into the jungle canopy, casting a thick, hazy veil over the landscape. Charlene, covered in blood and rage, stands atop the smoldering remains of her hut. Below, YeahNo, black voiced, stands triumphantly over the lifeless body of Jonathan, his face contorted into a grotesque grin as he cuts away at the rapper's genitals with a chainsaw. The jungle, usually tranquil, now reverberates with the sound of distant howls and the smoke's acrid smell.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "The jungle, a sanctuary of silence, now echoes with the sound of distant howls and the acrid smell of smoke.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "Charleen",
+          "line": "What have you done?",
+          "cast_type": "canonical",
+          "raw_name": "Charlene",
+          "match_score": 0.88
+        },
+        {
+          "character": "Yeahno",
+          "line": "I gave him what he deserved. He raped a fellow rapper. He had to pay.",
+          "cast_type": "canonical",
+          "raw_name": "YeahNo",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charleen",
+          "line": "He was just a rapper. A friend. You are a monster.",
+          "cast_type": "canonical",
+          "raw_name": "Charlene",
+          "match_score": 0.88
+        },
+        {
+          "character": "Yeahno",
+          "line": "He deserved it. Besides, you never did anything about my squirrel. Now, give me food. And don't look at me like that.",
+          "cast_type": "canonical",
+          "raw_name": "YeahNo",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Charlene’s eyes, twisted in rage, lock onto YeahNo, who cowers before her with a mix of fear and resignation. The chainsaw gleams in his hand, the blade glistening with Jonathan’s blood. Smoke curls around her defiant form as she surveys the destruction she’s wrought.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 2,
+      "source_file": "chunk_02",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Charleen",
+        "NARRATOR",
+        "Yeahno"
+      ]
+    },
+    {
+      "title": "The Descent of Ralph",
+      "reasoning": "The 'I' in the source is an unnamed narrator providing context. This chunk involves Ralph and Johnny, referencing their uneasy partnership and Ralph's calculating nature. The dramatic conflict revolves around the tension between Ralph's control and Johnny's moral unease. The setting fits an office or penthouse environment where they are discussing a significant business decision.",
+      "scene": "The scene takes place in a dimly lit, luxurious office in Hollywood Hills. The walls are adorned with high-end designer furniture and artwork, casting shadows on the polished marble floor. A glass table is cluttered with medical supplies and tech gadgets. The air is thick with tension, as Ralph sits hunched over the table, his skin leathery and sweat-drenched, while Johnny stands nervously nearby, his hands trembling slightly.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "Johnny, you're going to be the one to make sure this goes down smoothly. No room for mistakes.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "Johnny",
+          "line": "Ralph, are you sure about this? This is a billion-dollar brand we're talking about. We can't afford to mess up.",
+          "cast_type": "canonical",
+          "raw_name": "JOHNNY",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "You have one job, Johnny. One. Make sure Gisele Bündchen becomes a footnote in history. Got it?",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "Johnny",
+          "line": "But, Ralph... what about her legacy? It's just a billion dollars. Can't we just let her go?",
+          "cast_type": "canonical",
+          "raw_name": "JOHNNY",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Conscience is a luxury we can't afford, Johnny. We're in the opening weekend business. Time is money, and money talks.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 3,
+      "source_file": "chunk_03",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 5,
+      "speakers": [
+        "Johnny",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "Harvest of the Sacred",
+      "reasoning": "The 'I' in the source is an unnamed narrator, not directly named in the source. The cast members involved are Ralph and potentially Johnny, as the context suggests Ralph’s ongoing operations and Johnny’s uneasy involvement. The dramatic conflict revolves around Ralph’s business dealings and the moral implications of his actions. The setting should reflect the business environment and the tension between corporate pragmatism and indigenous spirituality.",
+      "scene": "In a sleek, modern office adorned with high-end designer furniture and sleek tech gadgets, Ralph sits at a glass desk, his back twisted from years of hunched posture. The office is bathed in the soft glow of 35mm celluloid light, casting a subtle, triumphant meta-horror tone. Johnny stands nervously by the window, his gaze constantly shifting, reflecting his internal conflict.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "Let’s make a deal, Johnny. This is our next move.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "Johnny",
+          "line": "I can’t... I just can’t believe we’re doing this.",
+          "cast_type": "canonical",
+          "raw_name": "Johnny",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Believe what? Business is business. You know as well as I do that we need to keep the wheels turning.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "Johnny",
+          "line": "But we’re exploiting them... We’re turning them into assets, Ralph. It’s... it’s not right.",
+          "cast_type": "canonical",
+          "raw_name": "Johnny",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Nonsense. They’re just another cog in the machine. We need to stay ahead of the curve, Johnny. The future is here, and it’s cold and hard.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "Johnny",
+          "line": "But... we have a choice. We can do better. We can find a way out of this",
+          "cast_type": "canonical",
+          "raw_name": "Johnny",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Choice? You and I both know that’s a luxury we can’t afford. The harvest is coming, and we’re reaping what we’ve sown.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 4,
+      "source_file": "chunk_04",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Johnny",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Sharpening Blade",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely describing a scene. The main cast member involved is Ralph, who is referenced and implied to be sharpening a machete. The dramatic conflict revolves around Ralph's menacing behavior and Charleen's fear. The setting is a hut with a cooking fire, where the tension between Ralph and Charleen is palpable.",
+      "scene": "In the dimly lit interior of a hut, the air is thick with the smell of burnt squirrel meat. By the cooking fire, Charleen sits huddled, her eyes wide with fear as she watches Ralph, who stands rigidly by a stool, meticulously sharpening the blade of his machete with a whetstone. The rhythmic shink-shink-shink is the only sound, a metallic heartbeat in the oppressive quiet.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "Shink-shink-shink...",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "She knows, with absolute certainty, that all the opportunities to protect her have been missed. The community has failed her, and now, alone in the hut, she faces an abuser empowered by their inaction, his weapon gleaming in the firelight.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 5,
+      "source_file": "chunk_05",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "NARRATOR",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Harvest: The Village Aftermath",
+      "reasoning": "The 'I' in the source is likely an unnamed narrator. This chunk involves Charleen and Ralph, with a dramatic conflict centered around the aftermath of the kidnapping and the shattered identity of Ralph. The setting is a devastated village, likely after the events described in the previous scenes.",
+      "scene": "The sun sets over the once-thriving village of Charleen, now a shell of its former self. The remains of huts and tents lie scattered, smoke from a few fires rising into the twilight sky. Charleen stands amidst the ruins, her face a mix of grief and determination. The village elder, a figure of sorrow, sits in the center of the village, weeping silently.",
+      "dialogue": [
+        {
+          "character": "Charleen",
+          "line": "They took her, Ralph. We lost her.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLEEN",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "We should have known. This was never just about them. It was about you.",
+          "cast_type": "canonical",
+          "raw_name": "THE VILLAGE ELDERS",
+          "match_score": 0.97
+        },
+        {
+          "character": "Charleen",
+          "line": "No. This is about them. About what they did to you. About what you allowed them to do.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLEEN",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Ralph stood at the edge of the village, his pinstripe suit stark against the tattered backdrop. His eyes, once cold and calculating, now betrayed a deep, unspoken pain. He was no longer the architect of the operation; he was a survivor, a broken man.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "Ralph",
+          "line": "I... I couldn't stop it, Charleen. I tried, but they... They were too far gone.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The village elder, a figure of sorrow, reached out a trembling hand. 'Ralph, it's not your fault. We all knew the risks, but we underestimated... the depths of their betrayal.'",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 6,
+      "source_file": "chunk_06",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Charleen",
+        "NARRATOR",
+        "Ralph",
+        "The Village Elder"
+      ]
+    },
+    {
+      "title": "The Fashion Show and the Villager's Confrontation",
+      "reasoning": "The source involves Ralph, Charleen, and the villagers. The dramatic conflict is Ralph's isolation and the villagers' stern reaction to his failure. The setting is the backstage area of a fashion show in a dimly lit environment, with villagers surrounding Ralph in a makeshift outdoor stage. This setting highlights the contrast between Ralph's corporate world and the villagers' traditional community.",
+      "scene": "Backstage at a chaotic Paris fashion show, dim lighting and flickering emergency lights cast long shadows. Models in various states of disarray, from high on Ambrosia to zombie-like, surround Ralph, their blank stares and eerie silence mocking him. A crowd of villagers stands in a makeshift outdoor stage, their faces stern and unyielding, casting dramatic shadows on the ground. The villagers, grieving and furious, see him for what he is: a buffoon.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "Ralph sits alone, clutching his phone, trying to compose a desperate message.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The villagers, their faces stern and unyielding, stand around him, casting dramatic shadows.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "The Village Elder",
+          "line": "You failed us, Ralph. You brought this on us.",
+          "cast_type": "canonical",
+          "raw_name": "VILLAGE ELDER",
+          "match_score": 0.89
+        },
+        {
+          "character": "Ralph",
+          "line": "I... I can fix this. I have to.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "Fix it? You brought the fire to our village. We're supposed to protect it, not burn it to ashes.",
+          "cast_type": "canonical",
+          "raw_name": "VILLAGE ELDER",
+          "match_score": 0.89
+        },
+        {
+          "character": "Ralph",
+          "line": "But they're turning against me. I need to get to Gisele.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "Gisele is safe. She's one of us now. You can't take her from us.",
+          "cast_type": "canonical",
+          "raw_name": "VILLAGE ELDER",
+          "match_score": 0.89
+        },
+        {
+          "character": "Ralph",
+          "line": "No, you don't understand. She's my legacy. My future.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "Your legacy? On the bodies of your own people? No, Ralph. You're nothing more than a corporate pawn.",
+          "cast_type": "canonical",
+          "raw_name": "VILLAGE ELDER",
+          "match_score": 0.89
+        }
+      ],
+      "rank": 7,
+      "source_file": "chunk_07",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "NARRATOR",
+        "Ralph",
+        "The Village Elder"
+      ]
+    },
+    {
+      "title": "The Corporate Toast",
+      "reasoning": "The source involves Ralph in a corporate setting. It describes a scene where Ralph is holding a celebratory toast, but his appearance and demeanor suggest a deeper conflict. The setting is a corporate conference room, which fits the context of Ralph's failing business.",
+      "scene": "A corporate conference room with sterile lighting and polished wood. The room is empty except for a man in a pyramidal power pose, holding a crystal champagne flute aloft in a celebratory toast. His sharp cheekbones are illuminated by a bright front-right key light, casting a greasy sheen of sudden cold sweat. Ralph's smooth exterior hides inner turmoil as he tries to rally his team with a forced grin.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "To our success...",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But this is just smoke and mirrors, Ralph thinks. His inner turmoil is palpable as he sips the champagne, the reality of his failing business looming large.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "Ralph",
+          "line": "We've got this!",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Unseen chaos rages outside in the real world, but Ralph's confidence is waning. He glances at the empty room, feeling the weight of his failures. His forced smile starts to falter.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 8,
+      "source_file": "chunk_08",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "NARRATOR",
+        "Ralph"
+      ]
+    }
+  ]
+}
